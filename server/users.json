@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "full_name": "Sonu Gautam",
+      "email_id": "sonu@example.com",
+      "mobile_number": "9958703100",
+      "date": "2024-03-12",
+      "designation": "full stack developer",
+      "salary": "50000",
+      "password": "123456"
+    },
+    {
+      "full_name": "Amit kumar",
+      "email_id": "amit@example.com",
+      "mobile_number": "9958703101",
+      "date": "2019-12-03",
+      "designation": "Software developer",
+      "salary": "90000",
+      "password": "123458",
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+input[type=text]{
+  border: none;
+  border-bottom: 1px solid green;
+}
+
+input[type=email]{
+  border: none;
+  border-bottom: 1px solid green;
+}
+
+input[type=password]{
+  border: none;
+  border-bottom: 1px solid green;
+}
+
+.select{
+  border: none;
+  border-bottom: 1px solid green;
+}
